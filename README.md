@@ -7,3 +7,7 @@ Before my first industry job, I was only using three very basic commands in git 
 - [git pull vs git pull —rebased vs git rebased](git_pull_subtleties.md)
 - [Git reset vs. Git revert](reset_vs_revert.md)
 - [Git reset vs. Git checkout --](reset_vs_checkout.md)
+- [Git show vs git diff --staged](show_vs_diff.md)
+- [Git show](git_show.md)
+- [Git branch](git_branch.md)
+- [Git stash](git_stash.md)
